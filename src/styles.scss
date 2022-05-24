@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Oxygen";
+    src: local("Oxygen"), url(./assets/fonts/karla-v22-latin-regular.ttf) format("truetype");
+}
+
+
 body {
     margin: 0;
+    font-family: 'Karla', sans-serif;
 }
